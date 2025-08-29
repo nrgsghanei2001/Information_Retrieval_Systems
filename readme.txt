@@ -1,4 +1,4 @@
-In this repositiory, I have implemented 5 different mini-projects related to different subjects and methods in an Information Retrieval System.
+In this repository, I have implemented 5 different mini-projects related to different subjects and methods in an Information Retrieval System.
 
 
 ### Inverted Index, Positional Index, Boolean Queries, and Proximity Queries
