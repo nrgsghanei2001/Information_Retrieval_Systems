@@ -1,13 +1,13 @@
-# Information Retrieval Mini-Projects
+Information Retrieval Mini-Projects
 
-This repository contains five mini-projects exploring different subjects and methods in **Information Retrieval Systems**. Each project focuses on implementing core concepts, algorithms, and models used in modern search engines and text processing.
+This repository contains five mini-projects exploring different subjects and methods in Information Retrieval Systems. Each project focuses on implementing core concepts, algorithms, and models used in modern search engines and text processing.
 
 ---
 
-## 📂 Projects Overview
+📂 Projects Overview
 
-### 1. Inverted Index, Positional Index, Boolean Queries, and Proximity Queries
-- **Objective:** Implement search engine components for documents, including inverted and positional indexes, to handle Boolean and proximity queries.
+1. Inverted Index, Positional Index, Boolean Queries, and Proximity Queries
+- Objective: Implement search engine components for documents, including inverted and positional indexes, to handle Boolean and proximity queries.
 - **Approach:**
   - Developed an **inverted index** for efficient term-based searching.
   - Created a **positional index** to support phrase and proximity queries.
